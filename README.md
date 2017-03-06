@@ -10,7 +10,7 @@ This extension isn't signed, so you need to install it manually.
   * In a terminal: `defaults write com.adobe.CSXS.7 PlayerDebugMode 1`
   * Copy this folder into `~/Library/Application Support/Adobe/CEP/extensions`
 * On Windows:
-  * In a terminal: `regedit > HKEY_CURRENT_USER/Software/Adobe/CSXS.7`
+  * In a terminal: `regedit > HKEY_CURRENT_USER/Software/Adobe/CSXS.7` then add a new entry `PlayerDebugMode` of type `string ` with the value of `1`.
   * Copy this folder into: `C:\Users\{USER}\AppData\Roaming\Adobe\CEP/extensions`
 
 Launch Photoshop. The extension should be available under Window > Extensions.
