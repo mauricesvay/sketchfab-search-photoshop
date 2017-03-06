@@ -2,6 +2,8 @@
 
 Search downloadable model on Sketchfab right from Photoshop.
 
+![Extension demo](https://raw.githubusercontent.com/mauricesvay/sketchfab-search-photoshop/master/assets/sketchfab-search-photoshop.gif)
+
 # Installing
 
 This extension isn't signed, so you need to install it manually.
